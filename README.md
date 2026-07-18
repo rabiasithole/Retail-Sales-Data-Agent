@@ -1,2 +1,2 @@
 # Retail-Sales-Data-Agent
-Retail Sales Data Agent  : helps users analyze retail sales data and generate business insights.
+The Retail Sales Data Agent is an AI-powered assistant that simplifies retail data analysis by allowing users to ask questions in natural language instead of writing SQL queries. It analyzes sales transactions to provide insights into sales performance, customer behavior, product performance, and revenue trends. The agent is designed to deliver accurate, data-driven insights that support informed business decision-making.
